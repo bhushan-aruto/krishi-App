@@ -1,0 +1,1 @@
+/home/bhushan/Documents/MajorProject/smart_park_apk/build/app/intermediates/cxx/RelWithDebInfo/421c2z35/obj/armeabi-v7a
